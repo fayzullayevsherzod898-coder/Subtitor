@@ -1,0 +1,4 @@
+openai>=1.30
+requests>=2.31
+# mahalliy ASR uchun (ixtiyoriy):
+# faster-whisper>=1.0
